@@ -4,9 +4,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 # `StarWarsly`
+Starwarsly is a react-redux-app using [https://www.npmjs.com/package/redux-persist/v/5.6.2][redux-persist] and [https://axios-http.com/docs/intro](Axios)
+to retreive and store star wars facts as users explore the site. Information is provided on people, planets, and films. Every item is Unkown to the user until they view said item  and its data is retreived, and subsequently saved in the persisted-store.. This does not include the starting point, A new hope, which contains links to people and planets in the film, which the user can view and save to the store. This way the app works is like an exploration! 
+
+For a full list of dependencies, check package-lock.json
 
 
-## Available Scripts
+## Installation
 
 In the project directory, you can run:
 
