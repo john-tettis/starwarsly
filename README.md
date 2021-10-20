@@ -16,7 +16,7 @@ run:
 $ git clone https://github.com/john-tettis/starwarsly
 ```
 
-## Scripts
+### Scripts
   > For yarn users, simply replace ```npm``` with ```yarn```
 ### `npm start`
 
@@ -30,5 +30,5 @@ You will also see any lint errors in the console.
 
 Launches the test runner in the interactive watch mode.<br />
 
-## Component Structure
+### Component Structure
 ![Component Diagram](https://github.com/john-tettis/starwarsly/blob/master/Component%20Diagram.png)
