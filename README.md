@@ -18,6 +18,13 @@ $ git clone https://github.com/john-tettis/starwarsly
 
 ### Scripts
   > For yarn users, simply replace ```npm``` with ```yarn```
+
+
+
+### `npm install`
+Will install all dependencies into /node_modules
+Necessary before running the app
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
